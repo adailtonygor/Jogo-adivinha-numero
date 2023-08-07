@@ -3,7 +3,7 @@
 :root {
     --font-family: 'Roboto', sans-serif;
     --primary-color: #E1ECC8;
-    --bg-color: #213363;
+    --bg-color: #7AA874;
 }
 
 body {
@@ -32,6 +32,12 @@ h3 {
     margin-top: 5px;
 }
 
+#comecar {
+    font-size: 1.5em;
+    margin-top: 10px;
+    
+    
+}
 .mensagem {
     font-size: 1.5em;
     margin-top: 40px;
